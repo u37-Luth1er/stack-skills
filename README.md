@@ -1,4 +1,5 @@
-![cyber_room](https://raw.githubusercontent.com/u37-Luth1er/stack-skills/main/caminho/para/o/gif/cyber_room.gif)
+![cyber_room](https://mir-s3-cdn-cf.behance.net/project_modules/1400/bbefa799786133.5efa9bf3d1b49.gif)
+
 
 
 <div align="center">
