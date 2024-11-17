@@ -1,4 +1,5 @@
-![cyber_room] [(https://github.com/user-attachments/assets/046786d0-e7fb-4b0c-ad53-ad3954dbab82)](https://mir-s3-cdn-cf.behance.net/project_modules/1400/bbefa799786133.5efa9bf3d1b49.gif)
+![cyber_room](https://raw.githubusercontent.com/u37-Luth1er/stack-skills/main/caminho/para/o/gif/cyber_room.gif)
+
 
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=u37-Luth1er&theme=omni&show_icons=true&hide_border=true&count_private=true" alt="u37-Luth1er" width="400" height="160"/>
