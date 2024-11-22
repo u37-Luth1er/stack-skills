@@ -1,5 +1,7 @@
 ![cyber_room](https://mir-s3-cdn-cf.behance.net/project_modules/1400/bbefa799786133.5efa9bf3d1b49.gif)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=u37-Luth1er)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fu37-Luth1er%2Fu37-Luth1er&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)](https://hits.seeyoufarm.com)
+![Profile Views](https://komarev.com/ghpvc/?username=u37-Luth1er&color=blue)
+
 
 
 
